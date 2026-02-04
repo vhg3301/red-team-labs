@@ -71,5 +71,3 @@ No real-world unauthorized access, malware, or illegal activity is supported.
 
 **Vitor Gabriel Rodrigues**
 GitHub: [https://github.com/vhg3301](https://github.com/vhg3301)
-
-```
